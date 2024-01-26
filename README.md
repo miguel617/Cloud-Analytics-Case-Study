@@ -1,6 +1,4 @@
 # Cloud-Analytics-Case-Study
-Time-Series ML Regression and Clustering on a cost/utilization ficticious database on AWS
-
 
 A consultant's firm client wants to mitigate its costs on AWS platform and, so, we are in charge of finding a solution for this issue based on 2 solutions:
 
