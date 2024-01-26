@@ -1,4 +1,4 @@
-# Cloud-Analytics-Case-Study
+# Time-Series-Regression-on-Cloud-Analytics-Case-Study
 
 A consultant's firm client wants to mitigate its costs on AWS platform and, so, we are in charge of finding a solution for this issue based on 2 solutions:
 
