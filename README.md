@@ -12,3 +12,5 @@ We'll decompose the answer of the 2 problems into 4 parts:
 - Feature Engineering
 - Forecasting models using ML and DL to answer question 1
 - Cluster Analysis to answer question 2
+
+Python script and outputs can be seen at "main.ipynb".
